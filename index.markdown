@@ -8,7 +8,7 @@ title:  Rubize.io
   <img src="/assets/img/rubize.png" alt="Rubize" class="img-fluid">
 </div>
 
-<div class="py-4 text-center">
+<div class="pt-4 pb-5 text-center">
   <h2 class="font-weight-light text-secondary">{{ site.description }}</h2>
 </div>
 
